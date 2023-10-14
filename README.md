@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitraj96" alt="arpitraj96" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Development and how to handle it's Pipeline**
+- 🌱 I’m currently learning **DSA, Mobile Application Development and how to handle it's Pipeline**
 
 - 📫 How to reach me **arpit360raj@gmail.com**
 
